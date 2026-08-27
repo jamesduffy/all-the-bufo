@@ -428,6 +428,7 @@
 | bufo-found-some-more-leeks.png | ![bufo-found-some-more-leeks.png](all-the-bufo/bufo-found-some-more-leeks.png) |
 | bufo-found-the-leeks.png | ![bufo-found-the-leeks.png](all-the-bufo/bufo-found-the-leeks.png) |
 | bufo-found-yet-another-juicebox.png | ![bufo-found-yet-another-juicebox.png](all-the-bufo/bufo-found-yet-another-juicebox.png) |
+| bufo-frank-n-furter.png | ![bufo-frank-n-furter.png](all-the-bufo/bufo-frank-n-furter.png) |
 | bufo-french.png | ![bufo-french.png](all-the-bufo/bufo-french.png) |
 | bufo-friends.png | ![bufo-friends.png](all-the-bufo/bufo-friends.png) |
 | bufo-frustrated-with-flower.png | ![bufo-frustrated-with-flower.png](all-the-bufo/bufo-frustrated-with-flower.png) |
